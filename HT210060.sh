@@ -1,5 +1,6 @@
 #!/bin/sh
 #Reference: https://support.apple.com/en-us/HT210060
+#Download the HT210060.conf file to run this script properly.
 
     while IFS="/n" read -r line
     do
